@@ -4,7 +4,7 @@ Hi 👋 My name is Mohammed Alosaili
 A Frontend Web Developer
 ------------------------
 
-* 🌍  I'm based in Saudi Arabia
+* 🌍  I'm from Kingdom of Saudi Arabia
 * ✉️  You can contact me at [mohamed.alosaili@gmail.com](mailto:mohamed.alosaili@gmail.com)
 * 🚀  I'm currently working on [Chat app](http://github.com/MohamedAlosaili/Rosie-Chat)
 * 🧠  I'm learning Reactjs & Firebase
