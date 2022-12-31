@@ -6,7 +6,7 @@
 
 * 🧠 I’m learning Reactjs & Firebase
 * 🚀 I'm currently building a [Chat app](https://github.com/MohamedAlosaili/Rosie-Chat)
-* ✉️ Cntact me at [Mohamed.alosaili@gmail.com](mailto:mohamed.alosaili@gmail.com)
+* ✉️ Contact me at [Mohamed.alosaili@gmail.com](mailto:mohamed.alosaili@gmail.com)
 
 <br/>
 
