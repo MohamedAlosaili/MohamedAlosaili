@@ -6,8 +6,8 @@ A Frontend Web Developer
 
 * 🌍  I'm from Kingdom of Saudi Arabia
 * ✉️  You can contact me at [mohamed.alosaili@gmail.com](mailto:mohamed.alosaili@gmail.com)
-* 🚀  I'm currently working on [Chat app](http://github.com/MohamedAlosaili/Rosie-Chat)
-* 🧠  I'm learning Reactjs & Firebase
+* 🚀  I'm currently working on small TypeScript projects 
+* 🧠  I'm learning TypeScript
 
 ### Skills
 
