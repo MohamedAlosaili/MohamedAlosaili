@@ -6,8 +6,8 @@ A Frontend Web Developer
 
 * 🌍  I'm from Kingdom of Saudi Arabia
 * ✉️  You can contact me at [mohamed.alosaili@gmail.com](mailto:mohamed.alosaili@gmail.com)
-* 🚀  I'm currently working on small TypeScript projects 
-* 🧠  I'm learning TypeScript
+* 🚀  I'm currently working on Nodejs projects 
+* 🧠  I'm learning Nodejs
 
 ### Skills
 
