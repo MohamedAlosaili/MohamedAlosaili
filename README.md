@@ -6,8 +6,8 @@ A Frontend Web Developer
 
 * 🌍  I'm from Kingdom of Saudi Arabia
 * ✉️  You can contact me at [mohamed.alosaili@gmail.com](mailto:mohamed.alosaili@gmail.com)
-* 🚀  I'm currently working on [ChatSphere](https://github.com/MohamedAlosaili/chatSphere) 
-* 🧠  I'm learning TypeScript
+* 🚀  I'm currently working on [various projects](https://github.com/MohamedAlosaili?tab=repositories) 
+* 🧠  I'm learning TypeScript and NextJS
 
 ### Skills
 
